@@ -1,7 +1,7 @@
 export const ActiveProjectsData = [
     {
        id:1,
-       projectName : "Dropbox Design System",
+       projectName : "Himalay Trek",
        priority : "Medium",
        priorityBadgeBg : 'warning',
        hours: 34,
@@ -16,7 +16,7 @@ export const ActiveProjectsData = [
     },
     {
         id:2,
-        projectName : "Slack Team UI Design",
+        projectName : "Mount Everest",
         priority : "High",
         priorityBadgeBg : 'danger',
         hours: 47,
